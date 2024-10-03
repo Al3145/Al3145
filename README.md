@@ -2,7 +2,6 @@
 - 👋 I’m interested in everything to do with automation and computer graphics.  I hold a fascination with compilers and minimialistic virtual machines.  Currently learning 
 - 🌱 I’m currently learning raytracing and machine learning.
 - 💞️ I’m looking to collaborate on anything to do with automation and compilers.
-- 📫 How to reach me: keyframedude@gmail.com
 - 👋 Fun fact: I used to mime and I am a puppeteer :)
 
 <!---
